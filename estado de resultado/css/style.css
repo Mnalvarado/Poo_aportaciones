@@ -1,0 +1,23 @@
+body{
+    background-color: cadetblue;
+    font-family: sans-serif; 
+}
+
+h3{
+    margin: 20px;
+    color: white;
+    text-align: center;
+}
+
+#container{
+    margin: 40px auto;
+    width: 600px;
+    background-color: white;
+}
+
+table{
+    text-align:left;
+    width: 100% auto;
+    height: 100% auto;
+}
+
